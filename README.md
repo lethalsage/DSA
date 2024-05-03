@@ -20,7 +20,9 @@ DSA Repository
 │   │   ├── Merge Sort  
 │   │   ├── Quick Sort  
 │   │   ├── Bucket Sort  
-│   │   └── Selection Sort  
+│   │   ├── Counting Sort  
+│   │   ├── Radix Sort  
+│   │   └── Integer Sorting  
 │   │  
 │   └── Dynamic Arrays  
 │       ├── Resizing Operations  
@@ -72,6 +74,17 @@ DSA Repository
 │   │       ├── Huffman Encoding  
 │   │       └── Huffman Decoding  
 │   │  
+│   ├── Heap  
+│   │   ├── Max Heap  
+│   │   │   ├── Heapify  
+│   │   │   ├── Heap Insertion  
+│   │   │   └── Heap Deletion  
+│   │   │  
+│   │   └── Min Heap  
+│   │       ├── Heapify  
+│   │       ├── Heap Insertion  
+│   │       └── Heap Deletion  
+│   │  
 │   └── Other Tree Structures  
 │       ├── N-ary Trees  
 │       ├── B-trees  
@@ -81,6 +94,7 @@ DSA Repository
     ├── Graph Representation (Adjacency Matrix, Adjacency List)  
     ├── Graph Traversal (DFS, BFS)  
     ├── Shortest Path Algorithms (Dijkstra's, Bellman-Ford)  
-    ├── Minimum Spanning Tree (Prim's, Kruskal's)  
-    └── Graph Applications (e.g., Topological Sorting, Network Flow)
+    ├── Minimum Spanning Tree (Prim's, Kruskal's)
+    ├── A* Algorithm
+    └── Graph Applications (e.g., Topological Sorting, Network Flow)  
 ```
