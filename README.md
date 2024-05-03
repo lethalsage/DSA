@@ -10,52 +10,52 @@ Let's embark on a journey of discovery together, Join me in this exploration, an
 
 ## Here is the directory structure
 
-DSA Repository
+DSA Repository  
 │
-├── Arrays
-│ ├── Array Operations
-│ │ ├── Insertion Sort
-│ │ ├── Selection Sort
-│ │ ├── Bubble Sort
-│ │ ├── Merge Sort
-│ │ ├── Quick Sort
-│ │ ├── Bucket Sort
-│ │ └── Selection Sort
-│ │
-│ └── Dynamic Arrays
-│ ├── Resizing Operations
-│ └── Dynamic Array Implementation
-│
-├── Linked Lists
-│ ├── Singly Linked List
-│ │ ├── Insertion Operations
-│ │ ├── Deletion Operations
-│ │ ├── Traversal
-│ │ └── Reversal
-│ │
-│ ├── Doubly Linked List
-│ │ ├── Insertion Operations
-│ │ ├── Deletion Operations
-│ │ ├── Traversal
-│ │ └── Reversal
-│ │
-│ └── Circular Linked List
-│ ├── Insertion Operations
-│ ├── Deletion Operations
-│ ├── Traversal
-│ └── Reversal
-│
-├── Stacks
-│ ├── Stack Implementation
-│ ├── Stack Operations
-│ ├── Applications (e.g., Expression Evaluation)
-│ └── Infix, Prefix, and Postfix Notations
-│
-├── Queues
-│ ├── Queue Implementation
-│ ├── Queue Operations
-│ ├── Circular Queue
-│ ├── Priority Queue
+├── Arrays  
+│ ├── Array Operations  
+│ │ ├── Insertion Sort  
+│ │ ├── Selection Sort  
+│ │ ├── Bubble Sort  
+│ │ ├── Merge Sort  
+│ │ ├── Quick Sort  
+│ │ ├── Bucket Sort  
+│ │ └── Selection Sort  
+│ │  
+│ └── Dynamic Arrays  
+│ ├── Resizing Operations  
+│ └── Dynamic Array Implementation  
+│  
+├── Linked Lists  
+│ ├── Singly Linked List  
+│ │ ├── Insertion Operations  
+│ │ ├── Deletion Operations  
+│ │ ├── Traversal  
+│ │ └── Reversal  
+│ │  
+│ ├── Doubly Linked List  
+│ │ ├── Insertion Operations  
+│ │ ├── Deletion Operations  
+│ │ ├── Traversal  
+│ │ └── Reversal  
+│ │  
+│ └── Circular Linked List  
+│ ├── Insertion Operations  
+│ ├── Deletion Operations  
+│ ├── Traversal  
+│ └── Reversal  
+│  
+├── Stacks  
+│ ├── Stack Implementation  
+│ ├── Stack Operations  
+│ ├── Applications (e.g., Expression Evaluation)  
+│ └── Infix, Prefix, and Postfix Notations  
+│  
+├── Queues  
+│ ├── Queue Implementation  
+│ ├── Queue Operations  
+│ ├── Circular Queue  
+│ ├── Priority Queue  
 │ └── Applications (e.g., BFS in Graphs)
 │
 ├── Trees
