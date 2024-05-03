@@ -9,7 +9,7 @@ Let's embark on a journey of discovery together, Join me in this exploration, an
 ---
 
 ## Here is the directory structure
-
+```
 DSA Repository  
 │  
 ├── Arrays  
@@ -82,4 +82,4 @@ DSA Repository
     ├── Graph Traversal (DFS, BFS)  
     ├── Shortest Path Algorithms (Dijkstra's, Bellman-Ford)  
     ├── Minimum Spanning Tree (Prim's, Kruskal's)  
-    └── Graph Applications (e.g., Topological Sorting, Network Flow)  
+    └── Graph Applications (e.g., Topological Sorting, Network Flow)  ```
