@@ -9,7 +9,7 @@ Let's embark on a journey of discovery together, Join me in this exploration, an
 ---
 
 ## Here is the directory structure
-```
+
 DSA Repository  
 │  
 ├── Arrays  
@@ -94,9 +94,9 @@ DSA Repository
     ├── Graph Representation (Adjacency Matrix, Adjacency List)  
     ├── Graph Traversal (DFS, BFS)  
     ├── Shortest Path Algorithms (Dijkstra's, Bellman-Ford)  
-    ├── Minimum Spanning Tree (Prim's, Kruskal's)
+    ├── Minimum Spanning Tree ([Prim's](https://github.com/lethalsage/DSA/blob/main/Graph/PrimsAlgorithm.cpp), [Kruskal's](https://github.com/lethalsage/DSA/blob/main/Graph/kruskals.cpp))
     ├── A* Algorithm
-    └── Graph Applications (e.g., Topological Sorting, Network Flow)  
-```
+    └── Graph Applications (e.g., Topological Sorting, Network Flow)
+
 
 Certain algorithms need to be completed, while others have already been updated.😊
