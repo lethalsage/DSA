@@ -23,7 +23,18 @@ int main() {
     return 0;
 }
 
+or
 
+//----------------------------------------------
+int* dynamicArray; // Declare pointer
+
+int size;
+std::cout << "Enter the size of the array: ";
+std::cin >> size;
+
+dynamicArray = new int[size]; // Allocate memory
+
+// ----------------------------------------------
 or
 // to make a array of size 10
 std::array<int, 10> array;
